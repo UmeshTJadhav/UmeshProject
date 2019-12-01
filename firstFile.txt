@@ -1,1 +1,2 @@
-das
+Prcticing git for first time
+then go to next step
